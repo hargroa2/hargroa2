@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Amanda! 👋</h1>
 <h3 align="center">🖥️ Full Stack Developer - Rock Hill, SC </h3>
 
-- 🎓 I’m currently a student of DigitalCrafts Full Stack Web Development Bootcamp, graduating in September 2022.
+- 🎓 I’m currently a student of DigitalCrafts Full Stack Web Development Bootcamp, graduating in September 2022
 
 - 🌱 I’m currently learning **React/Redux**
 
