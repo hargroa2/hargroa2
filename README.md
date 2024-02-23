@@ -30,6 +30,5 @@
 ---
 
 ### My Stats: ###
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hargroa2&show_icons=true&theme=great-gatsby" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hargroa2&layout=compact&theme=dark" />
 
